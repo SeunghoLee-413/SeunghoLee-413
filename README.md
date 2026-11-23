@@ -12,3 +12,7 @@ I'm an M.A. student at Kyungpook National University (Advisor: Prof. Dongsuk Oh)
 ### Publications
 - **A Structured Reasoning Framework for Causally Consistent Narrative Generation via Evidence-Conditioned Candidate-Set Control**
   *Knowledge-Based Systems*, 2026
+
+---
+
+<sub>Code for papers under review will be released upon acceptance.</sub>
